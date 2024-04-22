@@ -7,12 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome! I am a Deep Learning Library Performance Software Engineer at NVIDIA. I work on [CUTLASS](https://github.com/NVIDIA/cutlass), a collection of CUDA C++ template abstractions for implementing high-performance matrix-matrix multiplication (GEMM) and related computations at all levels and scales within CUDA.
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+I earned my PhD in Electrical and Computer Engineering from [University of California, Santa Barbara](https://www.ucsb.edu/) and my B.Eng and B.Mgt from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 I earned my PhD in Political Science from the
 [University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
