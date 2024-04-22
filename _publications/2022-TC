@@ -1,0 +1,9 @@
+---
+title: "[TC] Dynamic Sparse Attention for Scalable Transformer Acceleration"
+collection: coauthor
+permalink: /publication/2023-PPoPP
+date: 2022-03-01
+venue: 'IEEE Transactions on Computers'
+link: 'https://ieeexplore.ieee.org/abstract/document/9896137'
+citation: 'Liu Liu, Zheng Qu, Zhaodong Chen, Fengbin Tu, Yufei Ding, and Yuan Xie. Dynamic sparse attention for scalable transformer acceleration. IEEE Transactions on Computers, 71(12):3165–3178, 2022 '
+---
