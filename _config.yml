@@ -186,6 +186,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  coauthor:
+    output: true
+    permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
