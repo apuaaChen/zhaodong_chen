@@ -1,5 +1,5 @@
 ---
-title: "EVT: Accelerating deep learning training with epilogue visitor tree"
+title: "EVT: Accelerating Deep Learning Training with Epilogue Visitor Tree"
 collection: publications
 permalink: /publication/2024-ASPLOS
 date: 2024-05-01
