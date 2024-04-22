@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### First-author Papers
+# First-author Papers
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -17,9 +17,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### Co-authored Papers
+# Co-authored Papers
 
-{% for post in site.publications reversed %}
+{% for post in site.coauthor reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
